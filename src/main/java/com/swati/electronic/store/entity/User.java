@@ -20,4 +20,6 @@ private Integer id;
 @Column(name = "username")
 private String name;
 
+private String age;
+
 }
